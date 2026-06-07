@@ -1,5 +1,10 @@
 ## Hi there 👋
+I'm a software engineer based in earth.
 
+I mostly work on full stack -- React, TypeScript and Java, Python
+
+I use Figma for UI design to build my picture.
+---
 <!--
 **Flame57U/Flame57U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
