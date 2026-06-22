@@ -5,6 +5,25 @@ Full-stack developer working mainly with React, TypeScript, Java, and Python.
 
 I use Figma for UI design to shape my ideas into reality.
 
+🌱 Currently Learning
+⚛️ Advanced React Patterns
+🐹 Golang Concurrency (goroutines, channels)
+☸️ Kubernetes (Helm, AWS EKS, GKE)
+🔄 CI/CD Pipelines (GitHub Actions, Jenkins)
+🧩 Microservices & Event-Driven Design (Kafka, OpenTelemetry)
+
+💻 Tech Stack
+Frontend
+React Angular JavaScript
+
+Backend
+Java Golang Node.js Express.js Spring Boot
+
+Databases
+MySQL MongoDB Redis Elasticsearch
+
+DevOps & Tools
+Docker AWS Kafka Git Swagger Postman CI/CD
 <!--
 **Flame57U/Flame57U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
