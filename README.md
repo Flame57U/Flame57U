@@ -13,17 +13,25 @@ I use Figma for UI design to shape my ideas into reality.
 🧩 Microservices & Event-Driven Design (Kafka, OpenTelemetry)
 
 💻 Tech Stack
-Frontend
-React Angular JavaScript
 
-Backend
-Java Golang Node.js Express.js Spring Boot
+ ...
+  ### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F
+  7DF1E)
+  ### Backend
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Golang](https://img.shields.io/badge/golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
 
-Databases
-MySQL MongoDB Redis Elasticsearch
+  ### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) MongoDB Redis Elasticsearch
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-DevOps & Tools
-Docker AWS Kafka Git Swagger Postman CI/CD
+  ### DevOps & Tools
+  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
 <!--
 **Flame57U/Flame57U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
