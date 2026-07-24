@@ -30,8 +30,10 @@ I use Figma for UI design to shape my ideas into reality.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/MSSQL%20Server-%23ED8B00.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  
   ### DevOps & Tools
   ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![LXD](https://img.shields.io/badge/lxd-%230E8AFF.svg?style=for-the-badge&logo=lxd&logoColor=white)
   ![Podman](https://img.shields.io/badge/podman-%23892CA0.svg?style=for-the-badge&logo=podman&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 <!--
